@@ -8,7 +8,7 @@ Somente usuários com perfil de professor poderão cadastrar, editar e disponibi
 
 **User Story:** Como professor, desejo criar e publicar atividades para disponibilizar conteúdos e avaliações aos estudantes.
 
-**Caso de Uso:** Criar Atividade.
+**Caso de Uso:** Criar Atividade.ffgfud
 
 **BPMN:** publicação realizada exclusivamente pelo professor.
 
